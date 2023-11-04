@@ -1,3 +1,5 @@
+# I am currently replicating this experiment for my research lab with Professor Matthew Hilimire, all credit for this code goes to those listed in the references section below.
+
 # ML-Visibility-Graphs-for-Alzheimers
 Code for analysis, feature selection, and classification of Alzheimer's patient data (and prodromal Alzheimer's) for the paper: [https://www.mdpi.com/2282770](https://www.mdpi.com/2282770).
 
